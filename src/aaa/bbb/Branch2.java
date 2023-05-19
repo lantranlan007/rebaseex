@@ -1,5 +1,5 @@
 package aaa.bbb;
 
-public class Branch2 {
+public class Branch2 {;
 
 }
