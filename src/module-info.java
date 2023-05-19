@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author lantr
+ *
+ */
+module JavaTestGit {
+}
